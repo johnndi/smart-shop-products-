@@ -11,6 +11,7 @@
 
 # Getting Started
 postgresql=>create the database
+
 running on localhost:4000
 ### Download and install dependencies:
 
